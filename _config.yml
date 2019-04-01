@@ -23,7 +23,7 @@ description: My data science portfolio
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "My bio"
+  About Me: "aboutme"
   Resources:
     - Parkinson's: "https://github.com/bkrant/Parkinson-s"
     - Credit scoring: "https://github.com/bkrant/credit-scoring"
