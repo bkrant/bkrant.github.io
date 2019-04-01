@@ -14,16 +14,16 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Boris Krant website
+title: Boris Krant
 
 # Short description of your site
-description: A virtual proof that name is awesome!
+description: My data science portfolio
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "write something about myself"
+  Me: "My bio"
   Resources:
     - Parkinson's: "https://github.com/bkrant/Parkinson-s"
     - Credit scoring: "https://github.com/bkrant/credit-scoring"
